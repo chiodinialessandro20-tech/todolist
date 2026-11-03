@@ -1,0 +1,24 @@
+{
+    "articoli": [
+        {
+            "id": 512,
+            "nome": "Zaino",
+            "prezzo": 29,
+            "quantita": 1
+        },
+        {
+            "id": 733,
+            "nome": "Quaderno A4",
+            "prezzo": 2.5,
+            "quantita": 5
+        },
+        {
+            "id": 840,
+            "nome": "Penna gel",
+            "prezzo": 1.2,
+            "quantita": 4
+        }
+    ],
+    "codiceSconto": "RIENTRO15",
+    "spedizione": 3.5
+}
