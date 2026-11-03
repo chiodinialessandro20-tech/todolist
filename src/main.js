@@ -28,3 +28,4 @@ function render() {
 
 /* ---------- 4. AVVIO ---------- */
 render()
+/* ciao */
